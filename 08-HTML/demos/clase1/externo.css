@@ -7,6 +7,14 @@ p {
   font-size: 30px;
 }
 
+h1 {
+  color: blue;
+}
+
+img {
+  height: 400px;
+}
+
 .amarillo {
   color: yellow;
 }

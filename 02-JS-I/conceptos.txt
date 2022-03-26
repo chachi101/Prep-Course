@@ -1,0 +1,5 @@
+* Variables: Se utilizan para almacenar informacion.
+* Strings: Una cadena con x cantidad de caracteres.
+* Funciones (argumentos, `return`): Se utilizan para devolver algun valor despues de una funcion.
+* Declaraciones `if`: Se utiliza para hacer una pregunta logica.
+* Valores booleanos (`true`, `false`): Son variables que solo tienen dos estados.
